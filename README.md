@@ -1,8 +1,3 @@
-Claro! Aqui está um exemplo de `README.md` detalhado para o seu projeto no GitHub:
-
----
-
-```markdown
 # Impressão de Pedidos com Google Sheets
 
 Este projeto permite o monitoramento automático de uma planilha no Google Sheets para imprimir comandas de pedidos diretamente em uma impressora padrão do Windows. É ideal para estabelecimentos como bares, restaurantes e lanchonetes.
